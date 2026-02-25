@@ -1,0 +1,8 @@
+{
+  "name": "qa-planner",
+  "version": "1.0.0",
+  "description": "Generate test design documents and regression test plans automatically from GitHub PR URLs.",
+  "author": {
+    "name": "Anthropic"
+  }
+}

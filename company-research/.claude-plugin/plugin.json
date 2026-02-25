@@ -1,0 +1,8 @@
+{
+  "name": "company-research",
+  "version": "1.0.0",
+  "description": "企業のURLを渡すと、知りたい情報をインタラクティブに選択しながら調査・まとめてくれるプラグイン。会社概要、経営陣、財務、最新ニュースなど目的に合わせて情報を収集。",
+  "author": {
+    "name": "Anthropic"
+  }
+}
